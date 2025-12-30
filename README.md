@@ -39,10 +39,6 @@ The PhonePe Transaction Analysis project focuses on understanding digital paymen
 - Streamlit
 - Power BI Desktop (optional for .pbix files)
 
-### Clone the Repo
-```bash
-git clone https://github.com/yourusername/phonepe-transaction-insights.git
-cd phonepe-transaction-insights
 
 
 
